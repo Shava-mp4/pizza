@@ -1,0 +1,12 @@
+html {
+  background-color: rgb(255, 210, 152);
+}
+
+body {
+  width: 600px;
+  margin: 25px auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: white;
+  padding: 40px;
+  border-radius: 15px;
+}
